@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AllPics HD Wallpapers</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="popular">Most Popular</string>
+    <string name="catagory">All Catagories</string>
+    <string name="welcomeStr">welcome</string>
+    <string name="Load">Loading...</string>
+    <string name="setWall">Set Wallpaper</string>
+    <string name="save">Save</string>
+	
+    <string-array name="wall_catagory">
+        <item>Most Popular</item>
+        <item>Smile Please!</item>
+        <item>Cartoon</item>
+        <item>Cute and Pink</item>
+        <item>Love</item>
+        <item>Cool</item>
+        <item>Almighty God</item>
+        <item>Friends Forever (Web)</item>
+        <item>Rainy Day (Web)</item>
+        <item>Good Morning (Web)</item>
+        <item>Art (Web)</item>
+        <item>Yummy N Delicious (Web)</item>
+        <item>Motivational Quotes (Web)</item>
+        <item>Actors (Web)</item>
+        <item>Actress (Web)</item>
+        <item>Ian Somerhalder (Web)</item>
+        <item>The Vampire Diaries (Web)</item>
+        <item>Nature (Web)</item>
+        <item>Cutie Pie (Web)</item>
+        <item>Cute Puppies N Kittens (Web)</item>
+        <item>My Life My Rules (Web)</item>
+        <item>Buildings (Web)</item>
+        <item>Transformer (Web)</item>
+        <item>Harry Potter (Web)</item>
+        <item>Cars (Web)</item>
+    </string-array>
+    
+    
+</resources>
